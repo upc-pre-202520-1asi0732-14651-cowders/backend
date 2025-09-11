@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IvYR2vH89ak=",
+  "dgSpecHash": "sSfZfAl8jgo=",
   "success": true,
-  "projectFilePath": "E:\\Moobile\\Moobile-Platform\\Moobile-Platform\\Moobile-Platform.csproj",
+  "projectFilePath": "E:\\Moobilesito\\Moobile-Platform\\Moobile-Platform\\Moobile-Platform.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rence\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\rence\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",

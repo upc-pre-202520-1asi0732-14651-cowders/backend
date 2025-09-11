@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Moobile-Platform")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edbc09c0ae03caf4640af85b750e46d91b58921e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Moobile-Platform")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Moobile-Platform")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

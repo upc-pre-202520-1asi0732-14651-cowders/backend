@@ -8364,11 +8364,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Moobile\\Moobile-Platform\\Moobile-Platform\\Moobile-Platform.csproj",
+      "projectUniqueName": "E:\\Moobilesito\\Moobile-Platform\\Moobile-Platform\\Moobile-Platform.csproj",
       "projectName": "Moobile-Platform",
-      "projectPath": "E:\\Moobile\\Moobile-Platform\\Moobile-Platform\\Moobile-Platform.csproj",
+      "projectPath": "E:\\Moobilesito\\Moobile-Platform\\Moobile-Platform\\Moobile-Platform.csproj",
       "packagesPath": "C:\\Users\\rence\\.nuget\\packages\\",
-      "outputPath": "E:\\Moobile\\Moobile-Platform\\Moobile-Platform\\obj\\",
+      "outputPath": "E:\\Moobilesito\\Moobile-Platform\\Moobile-Platform\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rence\\AppData\\Roaming\\NuGet\\NuGet.Config",

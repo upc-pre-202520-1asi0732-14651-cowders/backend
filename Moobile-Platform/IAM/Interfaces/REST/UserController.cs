@@ -1,10 +1,10 @@
 using System.Net.Mime;
 using System.Security.Claims;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Moobile_Platform.IAM.Domain.Model.Commands;
 using Moobile_Platform.IAM.Domain.Model.Queries.UserQueries;
 using Moobile_Platform.IAM.Domain.Services;
-using Moobile_Platform.IAM.Infrastructure.Pipeline.Middleware.Attributes;
 using Moobile_Platform.IAM.Interfaces.REST.Resources.UserResources;
 using Moobile_Platform.IAM.Interfaces.REST.Transform.TransformFromUserResources;
 using Swashbuckle.AspNetCore.Annotations;

@@ -227,3 +227,4 @@ E:\Moobile\Moobile-Platform\Moobile-Platform\obj\Debug\net8.0\refint\Moobile-Pla
 E:\Moobile\Moobile-Platform\Moobile-Platform\obj\Debug\net8.0\Moobile-Platform.pdb
 E:\Moobile\Moobile-Platform\Moobile-Platform\obj\Debug\net8.0\Moobile-Platform.genruntimeconfig.cache
 E:\Moobile\Moobile-Platform\Moobile-Platform\obj\Debug\net8.0\ref\Moobile-Platform.dll
+E:\Moobile\Moobile-Platform\Moobile-Platform\obj\Debug\net8.0\Moobile-Platform.sourcelink.json
